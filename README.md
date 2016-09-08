@@ -1,1 +1,0 @@
-# Finetuning experiments using caffe
